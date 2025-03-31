@@ -12,7 +12,7 @@ Glad to have you here on my GitHub profile! I have a strong passion for **Artifi
 
 Here's a glimpse of some of my repositories:
 
-* **[Gia](https://github.com/garimabhayanaa/Gia)**: **A Python based virtual assistant.**
+* **[IntelliAssist](https://github.com/garimabhayanaa/Gia)**: **A Python based virtual assistant.**
 * **[Health-Assistant](https://github.com/garimabhayanaa/Health-Assistant)**: **A medical chatbot that provides informed and reliable responses.**
 * **[RoadMap-Generator](https://github.com/garimabhayanaa/RoadMap-Generator)**: **A tool to generate personalized learning roadmaps for developers, utilizing AI abilities.**
 * **[PeriodPal](https://github.com/garimabhayanaa/PeriodPal)**: **A JavaScript-based application designed to track and predict menstrual cycles.**

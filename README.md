@@ -1,10 +1,10 @@
 # Hi there, I'm Garima Bhayana 👋
 
-Glad to have you here on my GitHub profile! I have a strong passion for **Artificial Intelligence-Machine Learning and Full Stack Development**. I enjoy developing **interactive applications** and exploring emerging technologies.
+Glad to have you here on my GitHub profile! I have a strong passion for **Artificial Intelligence-Machine Learning and Full Stack Development**. I enjoy engineering **interactive applications** and exploring emerging technologies.
 
 ## About Me
 
-* Currently focused on **leveraging my skills in Artificial Intelligence and Machine Learning**.
+* Currently focused on **leveraging my skills in Artificial Intelligence - Machine Learning and Software Development**.
 * Interested in **open-source contributions and building scalable applications**.
 * Always eager to learn and collaborate on interesting projects.
 

@@ -38,8 +38,8 @@ Here's a glimpse of some of my repositories:
 
 ## Let's Connect!
 
-* [**LinkedIn Profile**](https://www.linkedin.com/in/garimabhayanaa)
-* [**Personal Website**](https://garimabhayana.vercel.app)
+* [**LinkedIn**](https://www.linkedin.com/in/garimabhayanaa)
+* [**Portfolio**](https://garimabhayana.vercel.app)
 * [**LeetCode Profile**](https://leetcode.com/u/garimabhayanaa/)
 
 Feel free to reach out if you have any questions or would like to collaborate!

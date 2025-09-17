@@ -17,6 +17,7 @@ Here's a glimpse of some of my repositories:
 * **[IntelliAssist](https://github.com/garimabhayanaa/IntelliAssist)**: **A Python based virtual assistant.**
 * **[CoCreate](https://github.com/garimabhayanaa/CoCreate-frontend)**: **A real-time collaborative editor built with the MERN stack, supporting document sharing, permission control, and live editing.**
 * **[Health-Assistant](https://github.com/garimabhayanaa/Health-Assistant)**: **A medical chatbot that provides informed and reliable responses.**
+* **[TraceLens](https://github.com/garimabhayanaa/TraceLens)**: **A digital footprint analysis tool that reveals how AI can infer sensitive personal information from publicly available data.**
 * **[SynthText](https://github.com/garimabhayanaa/SynthText)**: **A tone-aware AI assistant that performs real-time text summarization and transformation using state-of-the-art NLP models.**
 * **[WanderAI](https://github.com/garimabhayanaa/WanderAI)**: **An AI-powered travel planner that suggests personalized itineraries based on user preferences and budget.**
 * **[RoadMap-Generator](https://github.com/garimabhayanaa/RoadMap-Generator)**: **A tool to generate personalized learning roadmaps for developers, utilizing AI abilities.**
